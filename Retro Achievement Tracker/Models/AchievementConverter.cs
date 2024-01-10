@@ -30,7 +30,7 @@ namespace Retro_Achievement_Tracker.Models
             JToken Points = item["Points"];
             JToken TrueRatio = item["TrueRatio"];
             JToken Date = item["Date"];
-            JToken DateEarned = item["DateEarnedHardcore"];
+            JToken DateEarned = item["DateEarned"];
             JToken BadgeName = item["BadgeName"];
             JToken DisplayOrder = item["DisplayOrder"];
 
