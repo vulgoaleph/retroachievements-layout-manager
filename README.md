@@ -1,4 +1,4 @@
-# Retro Achievements Tracker
+# Retro Achievements Tracker (Softcore Version)
 
 Tracker for hunting [Retro Achievements](https://retroachievements.org) and enchancing live-streaming layouts with Retro Achievement data about your profile and the game you're currently playing. Provides windows to provide notifications when achievements unlock as well as other values (rank, ratio, awards, etc.) change.
 
